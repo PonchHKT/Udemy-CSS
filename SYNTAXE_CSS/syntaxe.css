@@ -1,0 +1,17 @@
+.ingredients {
+  /* POUR SELECTIONNER UNE CLASSE EN CSS IL FAUT METTRE UN -> . AVANT SON NOM*/
+  color: blue;
+}
+.instructions {
+  /* POUR SELECTIONNER UNE CLASSE EN CSS IL FAUT METTRE UN -> . AVANT SON NOM*/
+  color: green;
+}
+#beurre {
+  /* Pour les ID's -> ( # + NOM DE L'ID )*/
+  color: yellow;
+}
+
+div li ul {
+  /* SELECTION AVEC LES CLASSES */
+  color: orange;
+}
