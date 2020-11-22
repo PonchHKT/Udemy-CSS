@@ -1,0 +1,8 @@
+.instructions {
+  font-size: 2rem;
+  text-transform: lowercase;
+  font-weight: bold;
+}
+/* font-size: 10px, 10rem, 10%
+  text-transform: lowercase, uppercase
+  font-weight: bold, solid etc...
