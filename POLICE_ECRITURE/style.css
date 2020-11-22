@@ -1,0 +1,11 @@
+@font-face {
+  /* @font-face pour ajouter une police customisé */
+  font-family: "feelinggood"; /*Importer la police et lui donner un nom*/
+  src: url("fonts/FeelingGood.ttf"); /*Créer un dossier fonts/"police".ttf dans le dossier main de l'index.html*/
+}
+
+.instructions {
+  font-family: feelinggood; /* <---- Lui appliquer son nom dans le font-family: ; */
+  font-weight: bold;
+  font-style: italic;
+}
