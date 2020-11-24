@@ -1,0 +1,10 @@
+.nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+.nav {
+  position: sticky;
+  top: 0;
+  background-color: gray;
+  height: 50px;
+}
