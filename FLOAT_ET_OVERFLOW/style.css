@@ -1,0 +1,15 @@
+.poesie {
+  width: 200px;
+  height: 130px;
+  background-color: purple;
+  overflow: auto; /* Ajouter un scroll au texte */
+  padding: 40px;
+}
+
+img {
+  width: 10%; /* width: ()%; pour réduire l'image. */
+  float: right; /* float: right,left pour déplacer les images de gauche à droite */
+}
+.jeux-contenu {
+  clear: both;
+}
