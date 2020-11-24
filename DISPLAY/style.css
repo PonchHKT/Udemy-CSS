@@ -1,0 +1,7 @@
+.ingredients ul li {
+  list-style: none;
+}
+
+/* display: inline-block;
+   display: block;
+   list-style: none; Pour retirer les points noir du display */
