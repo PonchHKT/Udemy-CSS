@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.container-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.container-1 div {
+  width: 5%;
+  margin: 20px;
+}
+.box1 {
+  order: 2;
+  flex-basis: 20%;
+}
+.box2 {
+  order: 4;
+}
+.box3 {
+  order: 3;
+}
+.box4 {
+  order: 1;
+  flex-basis: 40%;
+}
