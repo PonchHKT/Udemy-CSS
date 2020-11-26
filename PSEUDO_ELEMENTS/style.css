@@ -1,0 +1,15 @@
+p::after {
+  content: "";
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  display: inline-block;
+}
+
+p::before {
+  content: "";
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  display: inline-block;
+}
